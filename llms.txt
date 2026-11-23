@@ -1,0 +1,15 @@
+# Sandnes Elektriske AS
+
+- Bransje: Elektrisk installasjonsarbeid
+- Sted: Sandnes
+- E-post: post@sandneselektriske.no
+- Telefon: 51 68 57 00
+
+## Tjenester
+
+- Elektrisk installasjon: Nye kurser, stikkontakter, lys og sikringsskap, i bolig og andre bygg.
+- Feilsøking og utbedring: Går sikringen, blinker lyset eller virker ikke kontakten? Vi finner feilen og retter den.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
